@@ -1,6 +1,6 @@
 # Hi, I'm Ninaad
 
-**Engineering student in Mysuru, Karnataka | Web development, Python & AI exploration**
+**Student at PES College of Engineering, Mandya | Web development, Python & AI exploration**
 
 I build practical, thoughtfully designed software that turns everyday ideas into useful tools. My projects span web interfaces, Python programming, and systems that connect software with real-world problems.
 
