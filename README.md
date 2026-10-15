@@ -8,8 +8,6 @@ I build practical, thoughtfully designed software that turns everyday ideas into
 
 | Project | What it does | Technologies |
 | --- | --- | --- |
-| [SolarSoft](https://github.com/ninaad-padiyarr/solo-soft) | A hackathon project for smart solar-power utilisation, with a dashboard for battery levels, appliance priorities, and energy use. | React, JavaScript, Tailwind CSS, Vite |
-| [Smart Flood Monitoring System](https://github.com/ninaad-padiyarr/smart-flood-monitoring-system) | An Arduino-connected web dashboard for live sensor readings and flood monitoring. | Python, Flask, Socket.IO, Arduino, HTML, CSS |
 | [Python](https://github.com/ninaad-padiyarr/Python) | Practice programs covering calculations, text processing, lists, and other programming fundamentals. | Python |
 | [C Programming](https://github.com/ninaad-padiyarr/c-programming) | My collection of C programming exercises as I strengthen the fundamentals. | C |
 
