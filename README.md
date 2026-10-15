@@ -13,15 +13,16 @@ I build practical, thoughtfully designed software that turns everyday ideas into
 
 ## Open-source contributions
 
-Contributing conformance tests to [Judgment Pack Specification](https://github.com/Judgment-Pack/judgment-pack-spec), with a focus on JSON Schema validation, precise diagnostics, and mutation testing.
+**Open-source contributor to 2 projects, with 4 merged pull requests.**
 
-| Contribution | Pull request |
-| --- | --- |
-| Six cases covering missing required root members (issue #137) | [PR #153](https://github.com/Judgment-Pack/judgment-pack-spec/pull/153) |
-| Four cases covering unexpected members in closed nested objects (issue #138) | [PR #154](https://github.com/Judgment-Pack/judgment-pack-spec/pull/154) |
-| Three cases covering repeated entries in unique arrays (issue #139) | [PR #152](https://github.com/Judgment-Pack/judgment-pack-spec/pull/152) |
+I contribute Python regression tests and JSON Schema conformance tests, with a focus on reliable behavior and clear validation.
 
-These three pull requests are submitted for maintainer review. Each was validated locally with the full 141-test suite and targeted schema mutations. Implementation and validation used AI assistance.
+| Project | Merged contributions | Accepted pull requests |
+| --- | --- | --- |
+| [monitoring-bot](https://github.com/Urushihara24/monitoring-bot) | Offline storefront HTML fixtures and price-parser regression tests, including safe handling of incomplete prices. | [#62](https://github.com/Urushihara24/monitoring-bot/pull/62) |
+| [Judgment Pack Specification](https://github.com/Judgment-Pack/judgment-pack-spec) | JSON Schema conformance tests for missing required fields, unexpected nested fields, and duplicate array entries. | [#152](https://github.com/Judgment-Pack/judgment-pack-spec/pull/152), [#153](https://github.com/Judgment-Pack/judgment-pack-spec/pull/153), [#154](https://github.com/Judgment-Pack/judgment-pack-spec/pull/154) |
+
+*Only merged contributions are listed. Implementation and validation used AI assistance.*
 
 ## Tools I use
 
