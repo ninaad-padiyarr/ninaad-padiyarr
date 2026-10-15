@@ -9,8 +9,6 @@ I build practical, thoughtfully designed software that turns everyday ideas into
 | Project | What it does | Technologies |
 | --- | --- | --- |
 | [Sherlock](https://github.com/ninaad-padiyarr/sherlock) | College lost-and-found platform with an Android client, local AI-assisted image and text matching, and a laptop administration dashboard. | React, TypeScript, Node.js, Python, Java, Cloudflare Workers/D1 |
-| [Python](https://github.com/ninaad-padiyarr/Python) | Practice programs covering calculations, text processing, lists, and other programming fundamentals. | Python |
-| [C Programming](https://github.com/ninaad-padiyarr/c-programming) | My collection of C programming exercises as I strengthen the fundamentals. | C |
 
 ## Open-source contributions
 
