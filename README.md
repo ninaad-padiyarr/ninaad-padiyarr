@@ -8,7 +8,8 @@ I build practical, thoughtfully designed software that turns everyday ideas into
 
 | Project | What it does | Technologies |
 | --- | --- | --- |
-| [Sherlock](https://github.com/ninaad-padiyarr/sherlock) | College lost-and-found platform with an Android client, local AI-assisted image and text matching, and a laptop administration dashboard. | React, TypeScript, Node.js, Python, Java, Cloudflare Workers/D1 |
+| **Clove.ai** (private) | Visual idea planner with custom blocks, local AI recommendations, and writing suggestions in Beginner, Intermediate, and Advanced English. | JavaScript, HTML/CSS, Node.js, Three.js, Ollama, Qwen3 4B |
+| Sherlock (private) | College lost-and-found platform with an Android client, local AI-assisted image and text matching, and a laptop administration dashboard. | React, TypeScript, Node.js, Python, Java, Cloudflare Workers/D1 |
 
 ## Open-source contributions
 
