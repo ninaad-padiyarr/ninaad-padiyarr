@@ -13,12 +13,14 @@ I build practical, thoughtfully designed software that turns everyday ideas into
 
 ## Open-source contributions
 
-**Open-source contributor to 3 projects, with 5 merged pull requests.**
+**Open-source contributor to 5 projects, with 7 merged pull requests.**
 
-I contribute Python regression tests, nginx diagnostic rules, and JSON Schema conformance tests, with a focus on reliable behavior and clear validation.
+I contribute bug fixes, documentation, diagnostic rules, and regression tests, with a focus on reliable behavior and clear validation.
 
 | Project | Merged contributions | Accepted pull requests |
 | --- | --- | --- |
+| [ADIF Parser](https://github.com/iu4pra/adif_parser) | QSL generation and template documentation, a CLI grouping-default fix with regression tests, and fork CI fixes. | [#83](https://github.com/iu4pra/adif_parser/pull/83) |
+| [femto](https://github.com/codewithzaqar/femto) | Configuration and keybinding references, working customization examples, and README corrections. | [#59](https://github.com/codewithzaqar/femto/pull/59) |
 | [localhost-doctor](https://github.com/Jazzfer-2003/localhost-doctor) | nginx diagnostic rules for port conflicts, directory-index errors (403), and refused upstream connections (502), with regression tests. | [#5](https://github.com/Jazzfer-2003/localhost-doctor/pull/5) |
 | [monitoring-bot](https://github.com/Urushihara24/monitoring-bot) | Offline storefront HTML fixtures and price-parser regression tests, including safe handling of incomplete prices. | [#62](https://github.com/Urushihara24/monitoring-bot/pull/62) |
 | [Judgment Pack Specification](https://github.com/Judgment-Pack/judgment-pack-spec) | JSON Schema conformance tests for missing required fields, unexpected nested fields, and duplicate array entries. | [#152](https://github.com/Judgment-Pack/judgment-pack-spec/pull/152), [#153](https://github.com/Judgment-Pack/judgment-pack-spec/pull/153), [#154](https://github.com/Judgment-Pack/judgment-pack-spec/pull/154) |
