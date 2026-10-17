@@ -1,4 +1,4 @@
-![Hi, I'm Ninaad — web development, Python and AI exploration](assets/profile-header.svg)
+# Hi, I'm Ninaad
 
 **Student at PES College of Engineering, Mandya | Web development, Python & AI exploration**
 
@@ -6,22 +6,10 @@ I build practical, thoughtfully designed software that turns everyday ideas into
 
 ## Featured projects
 
-<table>
-<tr>
-<td width="50%"><img src="assets/clove-card.svg" alt="Clove.ai: private visual idea planner with local AI and writing support" width="100%" /></td>
-<td width="50%"><img src="assets/sherlock-card.svg" alt="Sherlock: private college lost-and-found platform with Android and AI matching" width="100%" /></td>
-</tr>
-</table>
-
-<details>
-<summary>Project details and full technology stack</summary>
-
 | Project | What it does | Technologies |
 | --- | --- | --- |
 | **Clove.ai** (private) | Visual idea planner with custom blocks, local AI recommendations, and writing suggestions in Beginner, Intermediate, and Advanced English. | JavaScript, HTML/CSS, Node.js, Three.js, Ollama, Qwen3 4B |
 | Sherlock (private) | College lost-and-found platform with an Android client, local AI-assisted image and text matching, and a laptop administration dashboard. | React, TypeScript, Node.js, Python, Java, Cloudflare Workers/D1 |
-
-</details>
 
 ## Open-source contributions
 
