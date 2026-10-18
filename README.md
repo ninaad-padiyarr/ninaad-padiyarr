@@ -13,12 +13,13 @@ I build practical, thoughtfully designed software that turns everyday ideas into
 
 ## Open-source contributions
 
-**Open-source contributor to 5 projects, with 7 merged pull requests.**
+**Open-source contributor to 6 projects, with 8 merged pull requests.**
 
 I contribute bug fixes, documentation, diagnostic rules, and regression tests, with a focus on reliable behavior and clear validation.
 
 | Project | Merged contributions | Accepted pull requests |
 | --- | --- | --- |
+| [ytscrape](https://github.com/vsmutok/ytscrape) | SRT and WebVTT transcript exports with timestamp validation, UTF-8 file/stream output, regression tests, and API documentation. | [#21](https://github.com/vsmutok/ytscrape/pull/21) |
 | [ADIF Parser](https://github.com/iu4pra/adif_parser) | QSL generation and template documentation, a CLI grouping-default fix with regression tests, and fork CI fixes. | [#83](https://github.com/iu4pra/adif_parser/pull/83) |
 | [femto](https://github.com/codewithzaqar/femto) | Configuration and keybinding references, working customization examples, and README corrections. | [#59](https://github.com/codewithzaqar/femto/pull/59) |
 | [localhost-doctor](https://github.com/Jazzfer-2003/localhost-doctor) | nginx diagnostic rules for port conflicts, directory-index errors (403), and refused upstream connections (502), with regression tests. | [#5](https://github.com/Jazzfer-2003/localhost-doctor/pull/5) |
