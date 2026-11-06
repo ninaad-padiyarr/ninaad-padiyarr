@@ -13,12 +13,13 @@ I build practical, thoughtfully designed software that turns everyday ideas into
 
 ## Open-source contributions
 
-**Open-source contributor to 7 projects, with 9 merged pull requests.**
+**Open-source contributor to 8 projects, with 10 merged pull requests.**
 
 I contribute bug fixes, documentation, diagnostic rules, and regression tests, with a focus on reliable behavior and clear validation.
 
 | Project | Merged contributions | Accepted pull requests |
 | --- | --- | --- |
+| [Integreat CMS](https://github.com/digitalfabrik/integreat-cms) | Fixed push notification action visibility after invalid form submissions and added a regression test. | [#4650](https://github.com/digitalfabrik/integreat-cms/pull/4650) |
 | [openSUSE docbuild](https://github.com/openSUSE/docbuild) | Configurable default rsync exclusions, pattern validation, build-pipeline integration, documentation, and regression tests. | [#628](https://github.com/openSUSE/docbuild/pull/628) |
 | [ytscrape](https://github.com/vsmutok/ytscrape) | SRT and WebVTT transcript exports with timestamp validation, UTF-8 file/stream output, regression tests, and API documentation. | [#21](https://github.com/vsmutok/ytscrape/pull/21) |
 | [ADIF Parser](https://github.com/iu4pra/adif_parser) | QSL generation and template documentation, a CLI grouping-default fix with regression tests, and fork CI fixes. | [#83](https://github.com/iu4pra/adif_parser/pull/83) |
